@@ -1,6 +1,6 @@
 # how2java-practice
 
-这是在[how2j.cn](how2j.cn)网站学习java期间所做的练习。
+这是在[how2j.cn](https://how2j.cn)网站学习java期间所做的练习。
 
 `src-jichu/`对应java基础
 
